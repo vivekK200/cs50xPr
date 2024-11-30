@@ -1,8 +1,11 @@
 # Dad-jokes- Chrome extension.
 Simple Chrome Extension that shows you random jokes from a free api usinh JS and JSON with HTML and CSS.
+I've made it using css and JS with the head element html.
+this was my final project on cs50x.
 
 
 
+## GO WITH DEMO [_DEMO LINK_](https://youtu.be/8BEBdvNZeAQ)
 
 
 ## Downloading and Deploying the Extension :eyes:

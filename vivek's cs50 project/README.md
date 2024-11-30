@@ -11,7 +11,7 @@ To download the extension, run the following command in your __Command Prompt/Te
 
 
 
-Or alternatively, you can [__Download a ZIP__](https://github.com/CodeVisors/dad-jokes-extension/archive/refs/heads/main.zip) and then unpack the ZIP folder.
+Or alternatively, you can [__Download a ZIP__](https://github.com/vivekK200/cs50xPr/tree/main) and then unpack the ZIP folder.
 
 Once you have the extension code:
 
